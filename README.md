@@ -149,14 +149,14 @@ plt.show()
 ```
 # OUTPUT
 ![alt text](58.png)
- ![alt text](57.png)
-  ![alt text](56.png)
-   ![alt text](55.png) 
-   ![alt text](54.png) 
-   ![alt text](53.png) 
-   ![alt text](52.png) 
-   ![alt text](51.png)
+![alt text](57.png)
+![alt text](56.png)
+![alt text](55.png) 
+![alt text](54.png) 
+![alt text](53.png) 
+![alt text](52.png) 
+![alt text](51.png)
 
 # Result:
-  The Experiment to Perform Data Visualization using matplot python library for the given datas has been done successfully and the output is verified.
+  "The Experiment to Perform Data Visualization using matplot python library for the given datas has been done successfully and the output is verified."
 
